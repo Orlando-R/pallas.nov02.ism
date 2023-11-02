@@ -3,3 +3,4 @@
 # masodik modositas
 # github vs vscode
 # konfliktus browser
+# AAAAA
