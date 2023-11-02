@@ -2,3 +2,4 @@
 # modositas
 # masodik modositas
 # github vs vscode
+# konfliktus vscode
