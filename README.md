@@ -7,3 +7,4 @@
 # ZZZZ
 # 3333
 # probabbranch tesztelés
+# github jira osszekotes
